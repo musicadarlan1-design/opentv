@@ -1,0 +1,22 @@
+[
+  { "name": "SBT", "category": "Brasil", "country": "BR", "logo": "", "stream": "https://aovivo.maissbt.com/index_7.m3u8" },
+  { "name": "TV Cultura", "category": "Brasil", "country": "BR", "logo": "", "stream": "https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8" },
+  { "name": "Record News", "category": "Notícias", "country": "BR", "logo": "", "stream": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116" },
+  { "name": "Rede NGT", "category": "Brasil", "country": "BR", "logo": "", "stream": "https://isaocorp.cloudecast.com/ngt/index.m3u8" },
+  { "name": "Rede Brasil", "category": "Brasil", "country": "BR", "logo": "", "stream": "https://video01.logicahost.com.br/redebrasil02/redebrasil02/playlist.m3u8" },
+  { "name": "ISTV", "category": "Brasil", "country": "BR", "logo": "", "stream": "https://video08.logicahost.com.br/istvnacional/srt.stream/istvnacional.m3u8" },
+  { "name": "Pluto TV Nick Classics", "category": "Infantil", "country": "BR", "logo": "", "stream": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12151794c1800007a8ae63/master.m3u8" },
+  { "name": "TV Ra Tim Bum", "category": "Infantil", "country": "BR", "logo": "", "stream": "https://cdn-5.nxplay.com.br/TV_RA_TIM_BUM/index.m3u8" },
+  { "name": "Os Simpsons (24h)", "category": "Infantil", "country": "BR", "logo": "", "stream": "https://embedcanaistv.site/24h-simpsons/video.m3u8" },
+  { "name": "Al Jazeera English", "category": "Notícias", "country": "QA", "logo": "", "stream": "https://live-hls-web-aje.getaj.net/AJE/index.m3u8" },
+  { "name": "Bloomberg TV", "category": "Notícias", "country": "US", "logo": "", "stream": "https://live-bloomberg.tv/hls/us/primary.m3u8" },
+  { "name": "Red Bull TV", "category": "Esportes", "country": "AT", "logo": "", "stream": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8" },
+  { "name": "FIFA+", "category": "Esportes", "country": "CH", "logo": "", "stream": "https://cdn-1.nxplay.com.br/FIFA_PLUS/index.m3u8" },
+  { "name": "Canal 29", "category": "Música", "country": "BR", "logo": "", "stream": "https://stmv1.srvif.com/canal29/canal29/chunklist_w2125553746.m3u8" },
+  { "name": "Canção Nova", "category": "Religiosos", "country": "BR", "logo": "", "stream": "https://cdn-5.nxplay.com.br/CANCAO_NOVA/index.m3u8" },
+  { "name": "TV Aparecida", "category": "Religiosos", "country": "BR", "logo": "", "stream": "https://cdn-5.nxplay.com.br/TV_APARECIDA/index.m3u8" },
+  { "name": "DW Documentaries", "category": "Documentários", "country": "DE", "logo": "", "stream": "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8" },
+  { "name": "NASA TV", "category": "Documentários", "country": "US", "logo": "", "stream": "https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8" },
+  { "name": "TVS Retro", "category": "Brasil", "country": "BR", "logo": "", "stream": "https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8" },
+  { "name": "NHK World Japan", "category": "Internacionais", "country": "JP", "logo": "", "stream": "https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/es/playlist.m3u8" }
+]
